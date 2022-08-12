@@ -13,9 +13,14 @@ The loss of each of our models is presented in the following images. The first l
 
 <img src = "https://github.com/arashasg/Recommender-System-Movie/blob/main/img/8.png?raw=true">
 
+*loss of the model with an embedding dimension of 20*
+
 <img src = "https://github.com/arashasg/Recommender-System-Movie/blob/main/img/9.png?raw=true">
 
-Dataset
+*loss of the model with an embedding dimension of 10*
+
+#### Dataset
+
 The Movielens Dataset used for training our models is accessible through [Kaggle](https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset).
 
 
